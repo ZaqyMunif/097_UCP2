@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="konsentrasi">Konsentrasi</string>
+    <string name="judul">Judul</string>
+    <string name="dospem_1">Dosen Pembimbing 1</string>
+    <string name="dospem_2">Dosen Pembimbing 2</string>
+    <string name="kembali">Back</string>
+    <string name="lanjut">Next</string>
+    <string name="submit">Submit</string>
+    <string name="dosen1">Eko </string>
+    <string name="dosen2">Nur </string>
+    <string name="dosen3">Cahya </string>
+    <string name="jdl">Form Pengajuan Skripsi</string>
+
+</resources>
